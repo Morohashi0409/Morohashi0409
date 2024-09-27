@@ -1,5 +1,5 @@
-# Backend Developer in Japan👋  
-### Just 20 years old  
+# Frontend Developer in Japan👋  
+### Just 24 years old  
 ### Feel free to contact me anytime!👍  
 
 ![Morohashi0409's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morohashi0409&show_icons=true&theme=vue-dark)
@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Morohashi0409&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://x.com/moro95689250)
+[![My X Account](https://badgen.net/twitter/follow/Masa36940064)](https://x.com/moro95689250)
 
 # NOW TRAINING
 
@@ -17,12 +17,19 @@
 <a href="mailto:moromoropi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=moromoropi@gmail.com"/></a>
 </p>
 
+
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gitlab,jquery,aws,vite,python,fastapi,java,spring,swift" /> <br /><br />
+| Language / Technology | Related Tools & Frameworks | Years of Experience |
+|-----------------------|----------------------------|---------------------|
+| Python                | FastAPI                    | 3 years             |
+| Vue.js                | Vue 2, Vuex                | 2 years             |
+| Java                  | Spring Boot                | 1 year              |
+| Amazon Web Services    |                            | 1 year              |
+| Swift                 | Xcode                      | 1 year              |
 
-  ※Other skills and tools  
-  Codeigniter, Virtual Box, CakePHP, CircleCI, Spring Boot, FastAPI, AWS, Swift, Xcode
+<br /><br />
+
 
 # NOW TRAINING
 
