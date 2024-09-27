@@ -8,9 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Morohashi0409&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My X Account](https://badgen.net/twitter/follow/Masa36940064)](https://x.com/moro95689250)
-
-# NOW TRAINING
+# Account
 
 <p align="left">
 <a href="https://x.com/moro95689250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MOROHA@ウェルビーイングエンジニア" height="30" width="40" /></a>
