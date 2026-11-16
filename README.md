@@ -1,46 +1,15 @@
-# モロハシのプロフィール
+# Moro
 
-## 基本情報
+Webアプリと、生成AIを使った業務ツールを作っているソフトウェアエンジニアです。
+フロントエンドからバックエンド、AIワークフロー、テストの自動化まで、作ったものが使われるところまで見ています。
 
-* **職業**: フルスタックエンジニア
-* **年齢**: 25歳
-* **拠点**: 日本
+## Tech Stack
 
----
-
-## スキルセット（Tech Stack）
-
-### フロントエンド
-
-* Vue.js（Vue 2, Vue 3）
-* React
-* TypeScript
-
-### バックエンド
-
-* Python（FastAPI）
-* Java（Spring Boot）
-
-### クラウド・DevOps
-
-* AWS
-* Docker
-* GitHub Actions
-
----
-
-## プロジェクト実績
-
-* WellCom（業務改善システム）開発
-* 企業向けシステム改修
-* 自動化スクリプト制作
-
----
-
-## 現在学習中
-
-* React
-* TypeScript
+- **Frontend**：Vue.js 2/3、React、TypeScript
+- **Backend**：Python（FastAPI）、Node.js、Hono
+- **LLM**：Dify、Amazon Bedrock、Langfuse
+- **Cloud / DevOps**：AWS（Lambda / API Gateway / S3）、Cloudflare、Docker、GitHub Actions
+- **Testing**：Playwright、pytest
 
 ---
 
